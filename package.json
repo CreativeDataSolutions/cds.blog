@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-peach",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog powered by Gatsby and Markdown based on gatsby-starter-peach theme."
   "version": "0.1.0",
   "author": "Urvashi <vurvashi11@gmail.com>",
   "dependencies": {
@@ -58,6 +58,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",

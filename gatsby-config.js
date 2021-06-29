@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: require('./site-meta-data.json'),
+  pathPrefix: "/cds.blog",
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',
@@ -49,8 +50,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Gatsby Starter Blog',
-        short_name: 'GatsbyJS',
+        name: 'CDS - Creative Data Science Blog',
+        short_name: 'CDS Blog',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#663399',
