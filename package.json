@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-peach",
   "private": true,
-  "description": "A blog powered by Gatsby and Markdown based on gatsby-starter-peach theme."
+  "description": "A blog powered by Gatsby and Markdown based on gatsby-starter-peach theme.",
   "version": "0.1.0",
   "author": "Urvashi <vurvashi11@gmail.com>",
   "dependencies": {
