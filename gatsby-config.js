@@ -3,6 +3,12 @@ module.exports = {
   pathPrefix: "/cds.blog",
   plugins: [
     {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `cds_blog`
+      }
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/blog`,

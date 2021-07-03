@@ -24,6 +24,7 @@ const BlogPage = ({
 );
 
 export default BlogPage;
+
 export const pageQuery = graphql`
   query blogPageQuery {
     site {
