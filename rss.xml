@@ -1,4 +1,252 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CDS - Creative Data Science]]></title><description><![CDATA[Welcome to musing about data, code and visualization of complex systems and concepts. Get ready to get to know and love your data. Learn how to connect information with context and discover creative solutions to help guide your data analysis and modeling pursuits.]]></description><link>https://creative-data.science</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Jun 2021 04:12:34 GMT</lastBuildDate><item><title><![CDATA[Calling JavaScript code from C/C++ using WebAssembly]]></title><description><![CDATA[In the last blog post, we talked about calling C/C++ code from JavaScript using WebAssembly and Emscripten. Today, we will be discussing how…]]></description><link>https://creative-data.science/2020-11-09-calling-javascript-code-from-c-c-using-webassembly/</link><guid isPermaLink="false">https://creative-data.science/2020-11-09-calling-javascript-code-from-c-c-using-webassembly/</guid><pubDate>Mon, 09 Nov 2020 13:19:34 GMT</pubDate><content:encoded>&lt;p&gt;In the last blog post, we talked about &lt;a href=&quot;https://thecodedose.com/blog/loading-webassembly-modules-in-javascript&quot;&gt;calling C/C++ code from JavaScript using WebAssembly and Emscripten&lt;/a&gt;. Today, we will be discussing how to call JavaScript code from C/C++ with and without Emscripten.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CDS - Creative Data Science]]></title><description><![CDATA[Welcome to musing about data, code and visualization of complex systems and concepts. Get ready to get to know and love your data,  learn how to connect information with context and discover creative solutions to help guide your data analysis and modeling pursuits.]]></description><link>https://creative-data.science</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 03 Jul 2021 23:18:54 GMT</lastBuildDate><item><title><![CDATA[Publication record in review and onto new beginings]]></title><description><![CDATA[Hello world, it’s been a while since I last blogged but I never stopped my external opinings on data analysis and visualization. I published…]]></description><link>https://creative-data.science/2021-07-1-getting-started-again-final/</link><guid isPermaLink="false">https://creative-data.science/2021-07-1-getting-started-again-final/</guid><pubDate>Thu, 01 Jul 2021 12:30:00 GMT</pubDate><content:encoded>&lt;h4&gt;Hello world, it’s been a while since I last blogged but I never stopped my external opinings on data analysis and visualization. I published my last blog post on September 2, 2018 which highlighted the &lt;a href=&quot;https://www.liebertpub.com/doi/10.1089/omi.2018.0097&quot;&gt;Rise of Deep Learning for Genomic, Proteomic, and Metabolomic Data Integration in Precision Medicine&lt;/a&gt;.&lt;/h4&gt;
+&lt;center&gt;&lt;img src=&quot;https://www.liebertpub.com/cms/10.1089/omi.2018.0097/asset/images/large/figure2.jpeg&quot; style=&quot;width: 75%;&quot;&gt;&lt;/center&gt;
+&lt;h4&gt;The image above shows the brave new world where multi-modal transfer learning is used to encode and combine &lt;code class=&quot;language-text&quot;&gt;learnings&lt;/code&gt; of common features (e.g. signal transduction) patterns at varying levels of biological complexity. This sounds almost as pie in the sky as combining machine vision and language translation to make a better video processing model. Surprisingly this can work, and later I might opine on why this is difficult to do on biological data.&lt;/h4&gt;
+&lt;h4&gt;While its good to dream, I’ve yet satisfactorily apply deep learning model on biological data in a &lt;code class=&quot;language-text&quot;&gt;production&lt;/code&gt; setting, but more on that later.&lt;/h4&gt;
+&lt;center&gt;&lt;img src=&quot;https://www.liebertpub.com/cms/10.1089/omi.2018.0097/asset/images/large/figure3.jpeg&quot; style=&quot;width: 75%;&quot;&gt;&lt;/center&gt;
+&lt;h4&gt;The figure above draws parallels between biological signal transduction mechanisms and components of deep learning (DL) model architectures. If you have ever studied hyperbolic geometry, the emergence of common stable communication patterns between living organisms and mathematical constructs might not surprise you.&lt;/h4&gt;
+&lt;h4&gt;In 2018 I was a few years removed from working with a stealth start-up (at that point) seeking to quantify the human health phenotype. I had spent a lot of time crawling various biological databases weaving association, interaction, causality and knowledge networks to try to connect all things medical records, health care lab measurements and omics phenotyping data. This was an arduous task writing &lt;code class=&quot;language-text&quot;&gt;SQL&lt;/code&gt; glue, scrapping webpages and studying &lt;code class=&quot;language-text&quot;&gt;RDF&lt;/code&gt; graphs. Taking breaks from hot gluing data munging pipelines, I dreamed of the day when deep learning platforms can help do all of this and I can instead spend all of my time modeling and visualizing juicy nuggets of biological insights.&lt;/h4&gt;
+&lt;center&gt;&lt;img src=&quot;https://www.liebertpub.com/cms/10.1089/omi.2018.0097/asset/images/large/figure4.jpeg&quot; style=&quot;width: 75%;&quot;&gt;&lt;/center&gt;
+&lt;h4&gt;Fast forward in time, next I would like to consider my peer-reviewed publication record by looking at Google scholar stats. Since then, I’ve continued to write about the evolving field of Omics data analysis and visualization. Looking at &lt;a href=&quot;https://scholar.google.com/citations?user=zfp5U0QAAAAJ&amp;#x26;hl=en&quot;&gt;google scholar&lt;/a&gt;, it is a miracle that I’ve been lucky enough to continue meeting amazing collaborators who have helped supply a heaping serving of complex data to feed the journey in pursuit of honing the art of data analysis and visualization.&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 306px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 105.0632911392405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAIAAADJt1n/AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACf0lEQVQ4y41UW0/iUBA+v999IuGFKGCiEIiCuD4oiJooKkSfQLm5lksMUHq/97QV/JqzVnYh0Ul6menMfN9cTskSsvh7rcpiEVoUSZBlmem4TSfT2WwmCsJoOFJUjTCnKCCS9/d3WCzT0A0DL0yVJZmf8Yosq4pq2TYJAj9UVNUwDHhEwXB1HQewHvUWn3kZRuD7mqa5rks8j/7p9Xr9HjccUD9Y5WxbVrfdVhQ1snwmtUfDoaabhHp0Mplwr5yqaus1S4IgK0qkRqJpKuyEUocbDDiOe3l5cV0atY55z/mZKEnrwbIszedSWLNu6KhBFEXP8//ruWVZjuMs18SxbdO0yPJnstqwSMjqhH4YAzF03XFcsvhOfD+s5e3trd/vRwOf8zxGS76lyrzL5fLu7m445CD4or0RLdqWcCWnU9M0r6+v8/k8VD8IYJ9OJ7phko1oLAy7g807OTm5uLio1+uZTIbRxleMAOWQjeehVCqNRqNcLnd3d4fIq6ur+/v7bDaLT7quh/g+GAT/0Ia1Wq1in5PJZLPZRIpGo3F+fn55eXl7e1soFNAzhi/MBU1fa1gsFsO2AeT5+blYLCIY6Vjw0dFRu93e2dmJCBLWQCi2beOeSCRAeG9vD8HwjoLBH7m63W46nQ7JaxqW7+s8x+NxHHQkHgwG+/v7T09Pq8EMudPppFIpOKP/ACM4lqgKaX5tbWEqQAZtjLTVah0eHqJPlUoFPavVagcHB6C9vb39RRuLks/lRFE6Pv7N87PT09PxeAw0HLXazQ3wHx4eHh8fW60mRv36yp2dnSGMUgpwgqZT6jog4OIZCvjgH4JRuHjYNkYaWsPXUKAwZAz8A8dCijE2O8yiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;google scholar&quot;
+        title=&quot;google scholar&quot;
+        src=&quot;/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png&quot;
+        srcset=&quot;/cds.blog/static/108dac432502dc25803e82534718ff86/c26ae/google_scholar.png 158w,
+/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png 306w&quot;
+        sizes=&quot;(max-width: 306px) 100vw, 306px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;I published &lt;a href=&quot;https://pubs.acs.org/doi/abs/10.1021/np060491m&quot;&gt;my first peer reviewed manuscript&lt;/a&gt; in 2007 while working as an undergraduate chemist in a chemical ecology lab at the University of Utah where I fell in love with analytical chemistry and was inspired to pursue PhD training in analytical chemistry and biotechnology. My &lt;a href=&quot;https://scholar.google.com/scholar?oi=bibs&amp;#x26;cluster=15071776657322167233&amp;#x26;btnI=1&amp;#x26;hl=en&quot;&gt;first first author publication&lt;/a&gt; was in 2012 during my &lt;a href=&quot;https://www.proquest.com/docview/1112842674/4EE57D0CF9044C62PQ/1&quot;&gt;PhD dissertation&lt;/a&gt; when I met my true love, data analysis and visualization. Note if my wife reads this, I met my TRUE love in 2004 when still an undergrad.&lt;/h4&gt;
+&lt;h4&gt;Enough with the introduction lets look at some data. The graph below shows the number of citations of manuscripts I’ve co-authored since 2014 (which at the time of writing was 1540). A few questions might come to mind like:&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;1.&lt;/strong&gt; How can we validate that this data is correct?&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;2.&lt;/strong&gt; How do we get the raw data used for the graph?&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;3.&lt;/strong&gt; What are the trends for total and change in citations per year?&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;4.&lt;/strong&gt; How can we quantify the quality of the publication record?&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;1.&lt;/strong&gt; Can we trust this data? We could look at another source of record like pubmed and search for &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/?term=grapov&amp;#x26;sort=relevance&quot;&gt;all publications of a specific author&lt;/a&gt;.&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 353px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.32911392405063%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABlElEQVQoz2P4jwP8A5M/fv+Zf+TW8w9fQSL//qGpYcCpGaz0w7ef8hWLjt19AWT/+Uu8ZjD54vM3w+5Fpx+BNP/++5cozX/B1j789MV46Xr5rilnnz6DCxKr+d7nT6orFypM7r304jnQ0o8/f0K8AzcFu+Y/YOn7Xz9qb52rMq+96fzBoGMbZ9+9CBT89fcPwuZ/SLYhI6DIg68ftbbN0lzUIb9+ksK26eHHN5x7/+LF9y9z712EmA6y+dvvX0+/fYJogJDHXj+Zdef86XfP5TZNVVzQKrduktr2mTyrexz2LU0/vUNp8/RHXz6CNL/9+vngq4fl5/cdfH7/zOunx189uvj2+cxbZ8OPrCs6vSvuwNqoDfPi9q1KPb4l6+T25ONboo9uKDiza/Wj659//WB4/ub1pTu3/vz+/f3P76+/f0HQ91+/gAZv2bQ5OS4+LSk5LjJqzqxZoLD4A/Lw12/fbj64/+37d4ZvX7++ff3m95/fyAEG4a5bvy48IiI9IyM4JGTylClw8R8/f7x/9+73798AD8ZEUqErxzcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;pubmed publications&quot;
+        title=&quot;pubmed publications&quot;
+        src=&quot;/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png&quot;
+        srcset=&quot;/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/c26ae/pubmed_publications.png 158w,
+/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6bdcf/pubmed_publications.png 315w,
+/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png 353w&quot;
+        sizes=&quot;(max-width: 353px) 100vw, 353px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;The image above shows total publications by year and highlights a spike of 16 manuscripts in 2015. This is the year I left academia to pursue my &lt;a href=&quot;https://www.linkedin.com/in/dmitrygrapov/&quot;&gt;first industry job&lt;/a&gt;. In total, pubmed lists 51 publications which is the same order of magnitude as the 34 open source articles linked on Google scholar (P.S. Did you know that an author has to sometimes pay extra to make their articles available outside of paywalls?). Based on this info we can conclude that this data is OK to analyze further.&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;2.&lt;/strong&gt; How do we get the raw Google scholar data? Trying the UI we almost have hope to export the data as shown.&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/525e2876c6f54f6440a67e17c398df20/eac55/google_scholar_export.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.075949367088604%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA/0lEQVQY032QuU4DMRCG9w1TUKRDaZBoUlPwJkiIJ4C3CFUaRFJxbpZkj9jjY71je+218SYdKPk082vksedwFmNcPC/uHu6FEG3bEkr2TZNi7338Rwijljw8Loen5ZChMbfzq5vr2Wq96lRXFEVd11JKRIwn0H3MSShoyDqtL6eT2cXk7f1Do99tgRDV1LzaMY1OCNuKvlM9ZwbR/amSJf/8yl9e1877cBjrqInhNP5gmXPOWuNdj9gBUABICxNCpGyttfosY2fB1eabbXLxU8i6VECRgQYYlXPDqGZghDDp3NrxF5OmlsaY8TGiLrf7qqJlSZVKN2xKGK1TEM/yC238izEkfzPgAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;google scholar export&quot;
+        title=&quot;google scholar export&quot;
+        src=&quot;/cds.blog/static/525e2876c6f54f6440a67e17c398df20/f058b/google_scholar_export.png&quot;
+        srcset=&quot;/cds.blog/static/525e2876c6f54f6440a67e17c398df20/c26ae/google_scholar_export.png 158w,
+/cds.blog/static/525e2876c6f54f6440a67e17c398df20/6bdcf/google_scholar_export.png 315w,
+/cds.blog/static/525e2876c6f54f6440a67e17c398df20/f058b/google_scholar_export.png 630w,
+/cds.blog/static/525e2876c6f54f6440a67e17c398df20/eac55/google_scholar_export.png 887w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;However, Google only returns information about the manuscripts.&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/46e51/google_problems.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 8.227848101265824%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAIAAADXZGvcAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAa0lEQVQI1w2MQQ7DIAwE8/8HNpSCDRxIAdkmSI0EXOrbajSzBzOJSO+SUiqlMPP1vax955wVjjGIqdQizIhYa+v3HWMEAGI+vPeAoGUMwVprjPHeYUAimnOutfbev+fRfZ6v1pq+q6bVx7k/9GdslUPCXE8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;google problems&quot;
+        title=&quot;google problems&quot;
+        src=&quot;/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/f058b/google_problems.png&quot;
+        srcset=&quot;/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/c26ae/google_problems.png 158w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/6bdcf/google_problems.png 315w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/f058b/google_problems.png 630w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/40601/google_problems.png 945w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/46e51/google_problems.png 1003w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;If we want the citations we need to &lt;a href=&quot;https://github.com/jkeirstead/scholar/blob/b501fe20dab5c6e8079089eb1b7ecd45d961eda7/R/publications.r#L82&quot;&gt;scrape their table&lt;/a&gt;. Luckily there is an &lt;a href=&quot;https://github.com/jkeirstead/scholar&quot;&gt;R package&lt;/a&gt; to do this for us. Lets look at some code to pull this data.&lt;/h4&gt;
+&lt;h4&gt;We can get the Google scholar author id from the user field in the URL. For example, for &lt;code class=&quot;language-text&quot;&gt;https://scholar.google.com/citations?user=zfp5U0QAAAAJ&amp;amp;hl=en&lt;/code&gt; the id is &lt;code class=&quot;language-text&quot;&gt;zfp5U0QAAAAJ&lt;/code&gt;.&lt;/h4&gt;
+&lt;h4&gt;Lets check that this id is correct.&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;r&quot;&gt;&lt;pre class=&quot;language-r&quot;&gt;&lt;code class=&quot;language-r&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# install.packages(&quot;scholar&quot;)&lt;/span&gt;
+library&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;scholar&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+id&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;zfp5U0QAAAAJ&apos;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;# Get profile verify the author&apos;s name&lt;/span&gt;
+l &lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt; get_profile&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;id&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+l&lt;span class=&quot;token operator&quot;&gt;$&lt;/span&gt;name &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;## [1] &quot;Dmitry Grapov&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;This correctly returns the author. Next we can get the number of citations by year.&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;r&quot;&gt;&lt;pre class=&quot;language-r&quot;&gt;&lt;code class=&quot;language-r&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Get the citation history&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;citations&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;get_citation_history&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;id&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;##   year cites
+## 1 2013    13
+## 2 2014    41
+## 3 2015    86
+## 4 2016   171
+## 5 2017   207
+## 6 2018   225
+## 7 2019   263
+## 8 2020   313
+## 9 2021   203&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;&lt;strong&gt;3.&lt;/strong&gt; Next let’s look at the change in citations per year. Ideally all author publications are getting cited each year which could be a sign of relevance or primary reference of a useful idea. If this is the case, we expect a positive increase in the change in the number of citations per year (not unlike compound interest).&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;r&quot;&gt;&lt;pre class=&quot;language-r&quot;&gt;&lt;code class=&quot;language-r&quot;&gt;citations&lt;span class=&quot;token operator&quot;&gt;$&lt;/span&gt;delta&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;c&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;diff&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;citations&lt;span class=&quot;token operator&quot;&gt;$&lt;/span&gt;cites&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+median_cites&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;median&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;citations&lt;span class=&quot;token operator&quot;&gt;$&lt;/span&gt;delta&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+citations&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;##   year cites delta
+## 1 2013    13     0
+## 2 2014    41    28
+## 3 2015    86    45
+## 4 2016   171    85
+## 5 2017   207    36
+## 6 2018   225    18
+## 7 2019   263    38
+## 8 2020   313    50
+## 9 2021   203  -110&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;From 2007 to now, my publications have received a median of 36. That sounds reasonable but lets look if the median is a good summary of the trend.&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;r&quot;&gt;&lt;pre class=&quot;language-r&quot;&gt;&lt;code class=&quot;language-r&quot;&gt;library&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ggplot2&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+library&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ggrepel&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+library&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;tidyr&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+library&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;dplyr&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+library&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;patchwork&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;#lets make an overloaded label&lt;/span&gt;
+citations&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt; citations &lt;span class=&quot;token percent-operator operator&quot;&gt;%&gt;%&lt;/span&gt; 
+  unite&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;label&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;c&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;year&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;delta&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;remove&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token boolean&quot;&gt;FALSE&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sep&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;\n&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+p1&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;ggplot&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;citations&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; aes&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;delta&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; 
+  geom_histogram&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;aes&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;y&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;..density..&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; colour&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;black&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; fill&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;gray80&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  geom_density&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;alpha&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;.5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; fill&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;gray40&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  geom_vline&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;aes&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;xintercept&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;median_cites&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; color&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;black&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; linetype&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;dashed&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; size&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  geom_label_repel&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;aes&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;delta&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;y&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;label&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  xlab&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;difference in citations&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; 
+  ggtitle&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;Change in citations between subsequent years&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  theme_minimal&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+p2&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;ggplot&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;citations &lt;span class=&quot;token percent-operator operator&quot;&gt;%&gt;%&lt;/span&gt; mutate&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;year&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;factor&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;year&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; aes&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;year&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;cites&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;group&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;1&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; 
+  geom_line&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;color&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;gray&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;size&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  geom_point&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  ggtitle&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;Citations per year&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  geom_label_repel&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;aes&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;x&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;year&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;y&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;cites&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;label&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;cites&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  xlab&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;year&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  ylab&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;citations&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+  theme_minimal&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+p2 &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; p1&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;center&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/4ad3a/unnamed-chunk-4-1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABYUlEQVQoz21STW+DMAzl7/MLul+B1kN34FqpZ6TSW9XSlsPKCg0hBAiB7QVvFkWzhIXt2O/5wxuGoRSiKPK6rr9nMo4jaxY8bpqGnR5sNsZJ4JmXsNYaYxqthSiN6YQQbdvSS6/rOkogmxGQUCtVlqXWWkppnPQUBThKOOSqqhiT0ZRS8NsBqJZD45+gNPkdbRKipya0Ravjq7DHcyStraRsmxYMOUC1+550z565RrIjWUoJnnLS6Add0RS0blAOT2kQ9M9DdbRrTGYmyMc8F9uCRunH4zH3vKxq0SeHCAfJSZKw6ZIBBQNovK25oFsMAlTzPI/j+Hw+E3NcFLSHD+HT6fTvVFH6er0ml8tq9eb7/na7JV7H4xGtuWnjPKMowoZ4q8QZ95Om6W63C8Nw/b7efGyCIIjjA8rt93vT9797Biu6O/B0t9Q59ZVlt1t6/7wDH9Hn84lnRVFkWaYqBaQfV9DwbKgPnd4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;unnamed chunk 4 1&quot; title=&quot;unnamed chunk 4 1&quot; src=&quot;/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/f058b/unnamed-chunk-4-1.png&quot; srcset=&quot;/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/c26ae/unnamed-chunk-4-1.png 158w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/6bdcf/unnamed-chunk-4-1.png 315w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/f058b/unnamed-chunk-4-1.png 630w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/40601/unnamed-chunk-4-1.png 945w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/4ad3a/unnamed-chunk-4-1.png 1152w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/center&gt;
+&lt;h4&gt;The figures above show on top, a line plot of total citations per year and on the bottom, a histogram and density plot the differences in citations between subsequent years. Based on this we see a decrease in citations for 2021. This is expected because we are mid year in June and at this rate 2021 will end up with 406 citations or a change of 93. Additionally we see the biggest increase in citations occurred in from 2015 to 2016 which matches my last year in academia.&lt;/h4&gt;
+&lt;h4&gt;&lt;strong&gt;4.&lt;/strong&gt; The &lt;code class=&quot;language-text&quot;&gt;h-index&lt;/code&gt; presents an &lt;a href=&quot;https://subjectguides.uwaterloo.ca/calculate-academic-footprint/YourHIndex&quot;&gt;interesting summary metric&lt;/a&gt; of an author’s ~impact. It tries to normalize the total number of manuscripts v.s. citations per manuscript and places importance on publishing many highly cited manuscripts v.s. a few very highly cited or very many lowly cited papers.&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 463px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.16455696202532%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABT0lEQVQoz3WSW3OCMBCF+f9/yDp9ai1PnYpFBR8EpQ4gVi4BQi5A0lNxtFP1DBMIZ78kuxtDa80Yi6LI87ztdrvZbDBmWaZPUkrFcQwX/9frteu6vu/vdrsgCPI8N7qua9sW/NdJWCJJEiHEBa6qinOepimAMAxBYkoplVIaeIHUD4SlAT9yf2Fo2GTQPxguDtL3/W3AFX60c9M0+OBc3tm5YQwwgu7CnIvDIRSiKMt9RY7/4bIsRcPwqLt0q53aMtXI7J+84qNtpNJ/jn3Mvu1q4pF3QW/LpnSnV8ye6NGrHgXM1q3igl/hmlcv7XjOTEkZUoD4SedEANP5Wz821bNfzjCVrUSaCEDlDJSRinp/iNFJQgjGoijquoZ9TlsyQvOUHOMkwuWBi+aBB2gMEa67Wi4dyLKs2Wx2qf/QGFIQ+9N2HHexXEynU1y1wf0B4eJ1xOrmIbIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;hindex&quot;
+        title=&quot;hindex&quot;
+        src=&quot;/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png&quot;
+        srcset=&quot;/cds.blog/static/9409660818e4bee82022614d505793dd/c26ae/hindex.png 158w,
+/cds.blog/static/9409660818e4bee82022614d505793dd/6bdcf/hindex.png 315w,
+/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png 463w&quot;
+        sizes=&quot;(max-width: 463px) 100vw, 463px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;Fast forward to today, 2021-07-01, I am very grateful for being able to experience both academic publishing focused and industry value creation focused projects. Stay tuned for future posts exploring new creative methods to analyze and visualize data.&lt;/h4&gt;
+&lt;h4&gt;Last updated: 2021-07-01&lt;/h4&gt;</content:encoded></item><item><title><![CDATA[Calling JavaScript code from C/C++ using WebAssembly]]></title><description><![CDATA[In the last blog post, we talked about calling C/C++ code from JavaScript using WebAssembly and Emscripten. Today, we will be discussing how…]]></description><link>https://creative-data.science/2020-11-09-calling-javascript-code-from-c-c-using-webassembly/</link><guid isPermaLink="false">https://creative-data.science/2020-11-09-calling-javascript-code-from-c-c-using-webassembly/</guid><pubDate>Mon, 09 Nov 2020 13:19:34 GMT</pubDate><content:encoded>&lt;p&gt;In the last blog post, we talked about &lt;a href=&quot;https://thecodedose.com/blog/loading-webassembly-modules-in-javascript&quot;&gt;calling C/C++ code from JavaScript using WebAssembly and Emscripten&lt;/a&gt;. Today, we will be discussing how to call JavaScript code from C/C++ with and without Emscripten.&lt;/p&gt;
 &lt;h1&gt;Using the import object&lt;/h1&gt;
 &lt;p&gt;Remember how we passed an import object to instantiate our WebAssembly modules last time? Today, we will be talking about it in more detail.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;importObject&lt;/em&gt;&lt;/strong&gt;(Optional)&lt;/p&gt;
@@ -54,7 +302,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Using emscripten&lt;em&gt;run&lt;/em&gt;script()&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;void&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;emscripten_run_script&lt;/code&gt;&lt;strong&gt;(const char&lt;em&gt;\&lt;/em&gt;script*)&lt;/strong&gt;is the most direct way of calling JavaScript from C/C++. It effectively runs the code using&lt;code class=&quot;language-text&quot;&gt;eval()&lt;/code&gt;which is a JavaScript function that evaluates code represented as a string. It is suited for purposes such as debugging but for better performance, you should write JavaScript “inline”.&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;emscripten_run_script(&amp;quot;console.log(&amp;#39;hello world&amp;#39;)&amp;quot;);&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;emscripten_run_script(&quot;console.log(&apos;hello world&apos;)&quot;);&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;You can also use &lt;code class=&quot;language-text&quot;&gt;emscripten_run_script_int&lt;/code&gt; if the result of the evaluation returns an int or &lt;code class=&quot;language-text&quot;&gt;emscripten_run_script_string&lt;/code&gt; if the evaluation returns a string.&lt;/p&gt;
 &lt;h2&gt;Using Inline JavaScript&lt;/h2&gt;
 &lt;p&gt;A faster way is to write “inline JavaScript”, using &lt;code class=&quot;language-text&quot;&gt;EM_JS()&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;EM_ASM()&lt;/code&gt; (and related macros).&lt;/p&gt;
@@ -72,7 +320,7 @@
     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sum&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;em++ -std=c++11 main.cc -O3 -s WASM=1 -o main.wasm -o main.js -s EXTRA_EXPORTED_RUNTIME_METHODS=&amp;#39;[&amp;quot;cwrap&amp;quot;]&amp;#39;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;em++ -std=c++11 main.cc -O3 -s WASM=1 -o main.wasm -o main.js -s EXTRA_EXPORTED_RUNTIME_METHODS=&apos;[&quot;cwrap&quot;]&apos;&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;When compiled and run, Emscripten will execute the lines of JavaScript enclosed in the EM_ASM block as if they appeared directly in the generated code.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Note, however, that under the hood Emscripten still does a function call even in this case, which has some amount of overhead.&lt;/p&gt;
@@ -172,120 +420,4 @@
 &lt;li&gt;Read the &lt;a href=&quot;https://reactjs.org/docs/accessibility.html&quot;&gt;Advance React Guides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Attend/Watch talks in &lt;a href=&quot;https://reactjs.org/community/conferences.html&quot;&gt;React Conferences&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Keep learning!&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Implementing a Pie Chart using React and D3.js]]></title><description><![CDATA[Today, we will be looking into how to create a Pie Chart using React and D3.js Creating a new component The basic structure of our…]]></description><link>https://creative-data.science/2020-11-05-implementing-a-pie-chart-using-react-and-d3-js/</link><guid isPermaLink="false">https://creative-data.science/2020-11-05-implementing-a-pie-chart-using-react-and-d3-js/</guid><pubDate>Thu, 05 Nov 2020 12:30:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/e1596/test.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABq6vEUjD/xAAaEAACAgMAAAAAAAAAAAAAAAABAgARAxAS/9oACAEBAAEFAndgy5L1RgVup//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAABIRAx/9oACAEBAAY/AooceQrWf//EABsQAAICAwEAAAAAAAAAAAAAAAARASEQMVFx/9oACAEBAAE/IU5kOCkOCfMItC6UbrZR/9oADAMBAAIAAwAAABAXP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQEBAAIDAQAAAAAAAAAAAAERACFBUYGR4f/aAAgBAQABPxDuJNXLgc/YlwfeusaG8CdZaBcIfxp4P3f/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;test&quot; title=&quot;test&quot; src=&quot;/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/828fb/test.jpg&quot; srcset=&quot;/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/ff44c/test.jpg 158w,
-/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/a6688/test.jpg 315w,
-/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/828fb/test.jpg 630w,
-/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/0ede0/test.jpg 945w,
-/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/3ac88/test.jpg 1260w,
-/cds.blog/static/a0d7c813f7691e23c495b6c5f4055192/e1596/test.jpg 2048w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;p&gt;Today, we will be looking into how to create a Pie Chart using React and D3.js&lt;/p&gt;
-&lt;h3&gt;Creating a new component&lt;/h3&gt;
-&lt;p&gt;The basic structure of our &lt;code class=&quot;language-text&quot;&gt;&amp;lt;PieChart /&amp;gt;&lt;/code&gt; component will look like this:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; useEffect &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;react&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; d3 &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;d3&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;PieChart&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    data&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    outerRadius&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    innerRadius&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; props&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; margin &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    top&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; right&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; bottom&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; left&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; width &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; outerRadius &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; margin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;left &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; margin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;right&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; height &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; outerRadius &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; margin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;top &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; margin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;bottom&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token function&quot;&gt;useEffect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token function&quot;&gt;drawChart&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;data&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-  &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;drawChart&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token comment&quot;&gt;// draw the chart here&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;    
-
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;pie-container&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; PieChart&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Let us take a look at the different props it will be using — &lt;code class=&quot;language-text&quot;&gt;margin&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;outerRadius&lt;/code&gt; are used to calculate the &lt;code class=&quot;language-text&quot;&gt;width&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;height&lt;/code&gt; of our pie. By having &lt;code class=&quot;language-text&quot;&gt;innerRadius&lt;/code&gt; greater than 0, we can very easily convert our pie chart into a donut chart as well 🍩 😄&lt;/p&gt;
-&lt;p&gt;Our component will render a &lt;code class=&quot;language-text&quot;&gt;div&lt;/code&gt; element which will be containing the Pie Chart.&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;drawChart&lt;/code&gt; function will be responsible for actually drawing our pie chart. It will be called every time the &lt;code class=&quot;language-text&quot;&gt;data&lt;/code&gt; prop changes.&lt;/p&gt;
-&lt;h4&gt;Defining the data&lt;/h4&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;PieChart&lt;/code&gt; will accept an array of objects for the &lt;code class=&quot;language-text&quot;&gt;data&lt;/code&gt; prop. This is how it will look like —&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; data &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; label&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Apples&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; value&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; label&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Oranges&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; value&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Drawing the Pie&lt;/h3&gt;
-&lt;p&gt;Now, let’s populate the &lt;code class=&quot;language-text&quot;&gt;drawChart&lt;/code&gt; function. Everything below will go inside this function:&lt;/p&gt;
-&lt;h4&gt;Creating a color scale&lt;/h4&gt;
-&lt;p&gt;First, let us define what interpolations is —&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Interpolation&lt;/strong&gt; is the process of estimating unknown values that fall between known values.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; colorScale &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d3     
-    &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;scaleSequential&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;      
-    &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;interpolator&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;d3&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;interpolateCool&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;      
-    &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;domain&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; data&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;length&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;The &lt;strong&gt;&lt;a href=&quot;https://github.com/d3/d3-interpolate&quot;&gt;d3-interpolate&lt;/a&gt;&lt;/strong&gt; module provides a variety of interpolation methods for blending between two values. Values may be numbers, colors, strings, arrays, or even deeply-nested objects.&lt;/p&gt;
-&lt;p&gt;The &lt;strong&gt;scaleSequential&lt;/strong&gt; method maps a continuous domain to a continuous range defined by an interpolator function. We are using the &lt;strong&gt;d3.interpolateCool&lt;/strong&gt; color scale but you can use any &lt;a href=&quot;https://github.com/d3/d3-scale-chromatic/blob/master/README.md&quot;&gt;other&lt;/a&gt; as well.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*UH2buM-fFsZ_JTuqfjhLlg.png&quot; alt=&quot;d3.interpolateCool&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;d3.interpolateCool&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*mac_xSL9Eoadwnab9ler5A.png&quot; alt=&quot;d3.interpolateWarm&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;d3.interpolateWarm&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In simple words, any value falling between &lt;code class=&quot;language-text&quot;&gt;[0, data.length]&lt;/code&gt; will be mapped to a value in the given color scale. We will be using these colors so that each sector of our pie has a different color.&lt;/p&gt;
-&lt;h4&gt;Appending SVG&lt;/h4&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Remove the old svg&lt;/span&gt;
-    d3&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;#pie-container&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;svg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token comment&quot;&gt;// Create new svg&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; svg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d3
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;select&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;#pie-container&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;svg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;width&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; width&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;height&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; height&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;g&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;transform&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;translate(&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;width &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;height &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;We first clear the previous chart before drawing a new one (remember &lt;code class=&quot;language-text&quot;&gt;drawChart&lt;/code&gt; is called every time the &lt;code class=&quot;language-text&quot;&gt;data&lt;/code&gt; changes?)&lt;/p&gt;
-&lt;p&gt;We append an &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt; inside the &lt;code class=&quot;language-text&quot;&gt;div&lt;/code&gt; element we rendered. We also append &lt;code class=&quot;language-text&quot;&gt;g&lt;/code&gt; inside the &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt; to group our elements together to apply easy transformations to them. We translate this group of elements to the center of the &lt;code class=&quot;language-text&quot;&gt;svg&lt;/code&gt;&lt;/p&gt;
-&lt;h4&gt;Defining the generators&lt;/h4&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; arcGenerator &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d3
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;arc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;innerRadius&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;innerRadius&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;outerRadius&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;outerRadius&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; pieGenerator &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; d3
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;pie&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;padAngle&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; d&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;value&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; arc &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; svg
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;selectAll&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;pieGenerator&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;data&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;enter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;d3.arc&lt;/code&gt; doesn’t actually draw any arcs yet but it is used to create an &lt;code class=&quot;language-text&quot;&gt;arcGenerator&lt;/code&gt; which will be used to draw the sectors of the pie. Similarly, &lt;code class=&quot;language-text&quot;&gt;d3.pie&lt;/code&gt; doesn’t draw the pie but it used to compute the necessary angles to represent our data as a pie.&lt;/p&gt;
-&lt;p&gt;We then enter the svg group with the computed data. Now, we are ready to actually draw the pie.&lt;/p&gt;
-&lt;h4&gt;Adding Sectors and Labels&lt;/h4&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Append sectors&lt;/span&gt;
-    arc
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;path&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;d&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; arcGenerator&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;fill&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;_&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; i&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;colorScale&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;stroke&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;#ffffff&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;stroke-width&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token comment&quot;&gt;// Append text labels&lt;/span&gt;
-    arc
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;text&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;text-anchor&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;middle&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;alignment-baseline&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;middle&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; d&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;data&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;label&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;fill&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &apos;#ffffff&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;attr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;transform&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; arcGenerator&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;centroid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;d&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;translate(&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;x&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;${&lt;/span&gt;y&lt;span class=&quot;token interpolation-punctuation punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;We append a path for each sector. If you notice carefully, we have used the index of each data item to map to the color scale which is used as a fill color for the sector.&lt;/p&gt;
-&lt;p&gt;Next, we append text elements for each data item and position them using &lt;code class=&quot;language-text&quot;&gt;arcGenerator.centroid&lt;/code&gt; which returns the center of each sector. That’s it!&lt;/p&gt;
-&lt;p&gt;This is how your pie chart will look like ✨&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;../content/assets/profile-pic.jpg&quot; alt=&quot;Pie Chart&quot;&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item></channel></rss>
