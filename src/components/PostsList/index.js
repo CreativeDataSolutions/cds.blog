@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "gatsby"
 import Tags from '../Tags';
-
+import getPrefixedPath from "../../getPrefixedPath"
 import './style.scss';
 
 const PostsList = ({ posts }) => (
@@ -18,7 +18,7 @@ const PostsList = ({ posts }) => (
           <article className="posts__article">
             <div
               className="posts__thumbnail"
-              style={{ backgroundImage: `url(${thumbnail}` }}
+              style={{ backgroundImage: `url(${getPrefixedPath(thumbnail)}` }}
             />
             <div>
               <h2 className="posts__title">{title}</h2>
