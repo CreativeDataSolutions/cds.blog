@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from "gatsby"
 import Tags from '../Tags';
 
 import './style.scss';
@@ -14,7 +14,7 @@ const PostsList = ({ posts }) => (
       },
     }) => (
       <li>
-        <a href={slug}>
+        <Link to={slug}>
           <article className="posts__article">
             <div
               className="posts__thumbnail"
@@ -26,7 +26,7 @@ const PostsList = ({ posts }) => (
               <Tags tags={tags} />
             </div>
           </article>
-        </a>
+          </Link>
       </li>
     ))}
   </ul>

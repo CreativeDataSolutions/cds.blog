@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-slug: /cds.blog/getting-started-again
+slug: /getting-started-again
 date: 2021-07-01T12:30:00.000Z
 title: Publication record in review and onto new beginings
 tags:
