@@ -9,7 +9,7 @@ tags:
   - R
 metaDescription: >-
   Celebrating data analysis and visualization, jump starting my new blog.
-thumbnail: https://github.com/CreativeDataSolutions/cds.blog/raw/gh-pages/images/getting-started-thumbnail.png
+thumbnail: /images/getting-started-thumbnail.png
 ---
 
 
