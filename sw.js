@@ -27,10 +27,10 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-6e6ce9787b2696d778b1.js"
+    "url": "webpack-runtime-411276b84e4c4c1d33c6.js"
   },
   {
-    "url": "styles.d3c196e166762a355116.css"
+    "url": "styles.0473e5b59b21ceab6e57.css"
   },
   {
     "url": "styles-407fe62976dc5310c43e.js"
@@ -42,11 +42,11 @@ self.__precacheManifest = [
     "url": "532a2f07-67dc19e264896ec0c01c.js"
   },
   {
-    "url": "app-7a1345242782354a35da.js"
+    "url": "app-636ff9b2d4f3afef63f6.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "ad67bc413dc5087cab54ae3e49b9446d"
+    "revision": "56c3fb063f53712c3b84235c59e15fd6"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-ad6431e4664bcf916d19.js"
@@ -57,14 +57,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "752afb8a67ae0b5438c130ad2eda93b7"
+    "revision": "6df83691428c675dc610c627faa4bd42"
   },
   {
     "url": "polyfill-da20a1db8321d70d55d6.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "9c2cc370c4cf6582c627e874e10db5e7"
+    "revision": "32d0bcaf30096915162ed9a709f42c89"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -151,12 +151,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/creativedatasolutions.github.io/cds.blog`), ``)
+  pathname = pathname.replace(new RegExp(`^/cds.blog`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/creativedatasolutions.github.io/cds.blog/app-7a1345242782354a35da.js`))) {
+  if (!resources || !(await caches.match(`/cds.blog/app-636ff9b2d4f3afef63f6.js`))) {
     return await fetch(event.request)
   }
 
@@ -169,7 +169,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/creativedatasolutions.github.io/cds.blog/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/cds.blog/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })

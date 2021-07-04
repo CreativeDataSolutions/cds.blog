@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CDS - Creative Data Science]]></title><description><![CDATA[Welcome to musing about data, code and visualization of complex systems and concepts. Get ready to get to know and love your data,  learn how to connect information with context and discover creative solutions to help guide your data analysis and modeling pursuits.]]></description><link>https://creative-data.science</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 03 Jul 2021 23:51:34 GMT</lastBuildDate><item><title><![CDATA[Publication record in review and onto new beginings]]></title><description><![CDATA[Hello world, it’s been a while since I last blogged but I never stopped my external opinings on data analysis and visualization. I published…]]></description><link>https://creative-data.science/2021-07-1-getting-started-again-final/</link><guid isPermaLink="false">https://creative-data.science/2021-07-1-getting-started-again-final/</guid><pubDate>Thu, 01 Jul 2021 12:30:00 GMT</pubDate><content:encoded>&lt;h4&gt;Hello world, it’s been a while since I last blogged but I never stopped my external opinings on data analysis and visualization. I published my last blog post on September 2, 2018 which highlighted the &lt;a href=&quot;https://www.liebertpub.com/doi/10.1089/omi.2018.0097&quot;&gt;Rise of Deep Learning for Genomic, Proteomic, and Metabolomic Data Integration in Precision Medicine&lt;/a&gt;.&lt;/h4&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CDS - Creative Data Science]]></title><description><![CDATA[Welcome to musing about data, code and visualization of complex systems and concepts. Get ready to get to know and love your data,  learn how to connect information with context and discover creative solutions to help guide your data analysis and modeling pursuits.]]></description><link>https://creative-data.science</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 04 Jul 2021 00:14:00 GMT</lastBuildDate><item><title><![CDATA[Publication record in review and onto new beginings]]></title><description><![CDATA[Hello world, it’s been a while since I last blogged but I never stopped my external opinings on data analysis and visualization. I published…]]></description><link>https://creative-data.science/2021-07-1-getting-started-again-final/</link><guid isPermaLink="false">https://creative-data.science/2021-07-1-getting-started-again-final/</guid><pubDate>Thu, 01 Jul 2021 12:30:00 GMT</pubDate><content:encoded>&lt;h4&gt;Hello world, it’s been a while since I last blogged but I never stopped my external opinings on data analysis and visualization. I published my last blog post on September 2, 2018 which highlighted the &lt;a href=&quot;https://www.liebertpub.com/doi/10.1089/omi.2018.0097&quot;&gt;Rise of Deep Learning for Genomic, Proteomic, and Metabolomic Data Integration in Precision Medicine&lt;/a&gt;.&lt;/h4&gt;
 &lt;center&gt;&lt;img src=&quot;https://www.liebertpub.com/cms/10.1089/omi.2018.0097/asset/images/large/figure2.jpeg&quot; style=&quot;width: 75%;&quot;&gt;&lt;/center&gt;
 &lt;h4&gt;The image above shows the brave new world where multi-modal transfer learning is used to encode and combine &lt;code class=&quot;language-text&quot;&gt;learnings&lt;/code&gt; of common features (e.g. signal transduction) patterns at varying levels of biological complexity. This sounds almost as pie in the sky as combining machine vision and language translation to make a better video processing model. Surprisingly this can work, and later I might opine on why this is difficult to do on biological data.&lt;/h4&gt;
 &lt;h4&gt;While its good to dream, I’ve yet satisfactorily apply deep learning model on biological data in a &lt;code class=&quot;language-text&quot;&gt;production&lt;/code&gt; setting, but more on that later.&lt;/h4&gt;
@@ -13,7 +13,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/creativedatasolutions.github.io/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png&quot;
+    href=&quot;/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -26,9 +26,9 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;google scholar&quot;
         title=&quot;google scholar&quot;
-        src=&quot;/creativedatasolutions.github.io/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png&quot;
-        srcset=&quot;/creativedatasolutions.github.io/cds.blog/static/108dac432502dc25803e82534718ff86/c26ae/google_scholar.png 158w,
-/creativedatasolutions.github.io/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png 306w&quot;
+        src=&quot;/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png&quot;
+        srcset=&quot;/cds.blog/static/108dac432502dc25803e82534718ff86/c26ae/google_scholar.png 158w,
+/cds.blog/static/108dac432502dc25803e82534718ff86/98b92/google_scholar.png 306w&quot;
         sizes=&quot;(max-width: 306px) 100vw, 306px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -48,7 +48,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/creativedatasolutions.github.io/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png&quot;
+    href=&quot;/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -61,10 +61,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;pubmed publications&quot;
         title=&quot;pubmed publications&quot;
-        src=&quot;/creativedatasolutions.github.io/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png&quot;
-        srcset=&quot;/creativedatasolutions.github.io/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/c26ae/pubmed_publications.png 158w,
-/creativedatasolutions.github.io/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6bdcf/pubmed_publications.png 315w,
-/creativedatasolutions.github.io/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png 353w&quot;
+        src=&quot;/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png&quot;
+        srcset=&quot;/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/c26ae/pubmed_publications.png 158w,
+/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6bdcf/pubmed_publications.png 315w,
+/cds.blog/static/76c43a73965fdea1335f5f01f3da520c/6c115/pubmed_publications.png 353w&quot;
         sizes=&quot;(max-width: 353px) 100vw, 353px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -79,7 +79,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/creativedatasolutions.github.io/cds.blog/static/525e2876c6f54f6440a67e17c398df20/eac55/google_scholar_export.png&quot;
+    href=&quot;/cds.blog/static/525e2876c6f54f6440a67e17c398df20/eac55/google_scholar_export.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -92,11 +92,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;google scholar export&quot;
         title=&quot;google scholar export&quot;
-        src=&quot;/creativedatasolutions.github.io/cds.blog/static/525e2876c6f54f6440a67e17c398df20/f058b/google_scholar_export.png&quot;
-        srcset=&quot;/creativedatasolutions.github.io/cds.blog/static/525e2876c6f54f6440a67e17c398df20/c26ae/google_scholar_export.png 158w,
-/creativedatasolutions.github.io/cds.blog/static/525e2876c6f54f6440a67e17c398df20/6bdcf/google_scholar_export.png 315w,
-/creativedatasolutions.github.io/cds.blog/static/525e2876c6f54f6440a67e17c398df20/f058b/google_scholar_export.png 630w,
-/creativedatasolutions.github.io/cds.blog/static/525e2876c6f54f6440a67e17c398df20/eac55/google_scholar_export.png 887w&quot;
+        src=&quot;/cds.blog/static/525e2876c6f54f6440a67e17c398df20/f058b/google_scholar_export.png&quot;
+        srcset=&quot;/cds.blog/static/525e2876c6f54f6440a67e17c398df20/c26ae/google_scholar_export.png 158w,
+/cds.blog/static/525e2876c6f54f6440a67e17c398df20/6bdcf/google_scholar_export.png 315w,
+/cds.blog/static/525e2876c6f54f6440a67e17c398df20/f058b/google_scholar_export.png 630w,
+/cds.blog/static/525e2876c6f54f6440a67e17c398df20/eac55/google_scholar_export.png 887w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -110,7 +110,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/46e51/google_problems.png&quot;
+    href=&quot;/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/46e51/google_problems.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -123,12 +123,12 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;google problems&quot;
         title=&quot;google problems&quot;
-        src=&quot;/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/f058b/google_problems.png&quot;
-        srcset=&quot;/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/c26ae/google_problems.png 158w,
-/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/6bdcf/google_problems.png 315w,
-/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/f058b/google_problems.png 630w,
-/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/40601/google_problems.png 945w,
-/creativedatasolutions.github.io/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/46e51/google_problems.png 1003w&quot;
+        src=&quot;/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/f058b/google_problems.png&quot;
+        srcset=&quot;/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/c26ae/google_problems.png 158w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/6bdcf/google_problems.png 315w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/f058b/google_problems.png 630w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/40601/google_problems.png 945w,
+/cds.blog/static/406bf43ddebf98ebafe53d19cc2c0555/46e51/google_problems.png 1003w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -205,13 +205,13 @@ p2&lt;span class=&quot;token operator&quot;&gt;&amp;lt;-&lt;/span&gt;ggplot&lt;s
 
 p2 &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; p1&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;center&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/4ad3a/unnamed-chunk-4-1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/4ad3a/unnamed-chunk-4-1.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABYUlEQVQoz21STW+DMAzl7/MLul+B1kN34FqpZ6TSW9XSlsPKCg0hBAiB7QVvFkWzhIXt2O/5wxuGoRSiKPK6rr9nMo4jaxY8bpqGnR5sNsZJ4JmXsNYaYxqthSiN6YQQbdvSS6/rOkogmxGQUCtVlqXWWkppnPQUBThKOOSqqhiT0ZRS8NsBqJZD45+gNPkdbRKipya0Ravjq7DHcyStraRsmxYMOUC1+550z565RrIjWUoJnnLS6Add0RS0blAOT2kQ9M9DdbRrTGYmyMc8F9uCRunH4zH3vKxq0SeHCAfJSZKw6ZIBBQNovK25oFsMAlTzPI/j+Hw+E3NcFLSHD+HT6fTvVFH6er0ml8tq9eb7/na7JV7H4xGtuWnjPKMowoZ4q8QZ95Om6W63C8Nw/b7efGyCIIjjA8rt93vT9797Biu6O/B0t9Q59ZVlt1t6/7wDH9Hn84lnRVFkWaYqBaQfV9DwbKgPnd4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;unnamed chunk 4 1&quot; title=&quot;unnamed chunk 4 1&quot; src=&quot;/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/f058b/unnamed-chunk-4-1.png&quot; srcset=&quot;/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/c26ae/unnamed-chunk-4-1.png 158w,
-/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/6bdcf/unnamed-chunk-4-1.png 315w,
-/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/f058b/unnamed-chunk-4-1.png 630w,
-/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/40601/unnamed-chunk-4-1.png 945w,
-/creativedatasolutions.github.io/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/4ad3a/unnamed-chunk-4-1.png 1152w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;unnamed chunk 4 1&quot; title=&quot;unnamed chunk 4 1&quot; src=&quot;/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/f058b/unnamed-chunk-4-1.png&quot; srcset=&quot;/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/c26ae/unnamed-chunk-4-1.png 158w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/6bdcf/unnamed-chunk-4-1.png 315w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/f058b/unnamed-chunk-4-1.png 630w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/40601/unnamed-chunk-4-1.png 945w,
+/cds.blog/static/258ebc57dea77d757d5b5c9a8dea409b/4ad3a/unnamed-chunk-4-1.png 1152w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/center&gt;
 &lt;h4&gt;The figures above show on top, a line plot of total citations per year and on the bottom, a histogram and density plot the differences in citations between subsequent years. Based on this we see a decrease in citations for 2021. This is expected because we are mid year in June and at this rate 2021 will end up with 406 citations or a change of 93. Additionally we see the biggest increase in citations occurred in from 2015 to 2016 which matches my last year in academia.&lt;/h4&gt;
@@ -222,7 +222,7 @@ p2 &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; p1&lt;/code&gt;&l
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/creativedatasolutions.github.io/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png&quot;
+    href=&quot;/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -235,10 +235,10 @@ p2 &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; p1&lt;/code&gt;&l
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;hindex&quot;
         title=&quot;hindex&quot;
-        src=&quot;/creativedatasolutions.github.io/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png&quot;
-        srcset=&quot;/creativedatasolutions.github.io/cds.blog/static/9409660818e4bee82022614d505793dd/c26ae/hindex.png 158w,
-/creativedatasolutions.github.io/cds.blog/static/9409660818e4bee82022614d505793dd/6bdcf/hindex.png 315w,
-/creativedatasolutions.github.io/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png 463w&quot;
+        src=&quot;/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png&quot;
+        srcset=&quot;/cds.blog/static/9409660818e4bee82022614d505793dd/c26ae/hindex.png 158w,
+/cds.blog/static/9409660818e4bee82022614d505793dd/6bdcf/hindex.png 315w,
+/cds.blog/static/9409660818e4bee82022614d505793dd/71ce0/hindex.png 463w&quot;
         sizes=&quot;(max-width: 463px) 100vw, 463px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
