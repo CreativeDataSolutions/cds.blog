@@ -5,6 +5,7 @@ import Layout from '../components/Layout';
 import PostsList from '../components/PostsList';
 import SEO from '../components/seo';
 
+
 const BlogPage = ({
   data: {
     site: { siteMetadata: { title, description } },

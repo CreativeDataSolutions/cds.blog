@@ -5,6 +5,9 @@ import Tags from '../Tags';
 
 import './style.scss';
 
+import getPrefixedPath from "../../getPrefixedPath"
+
+
 const PostsGrid = ({ posts }) => (
   <>
     <div className="post__section">
@@ -25,7 +28,7 @@ const PostsGrid = ({ posts }) => (
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                <img src={thumbnail} alt="" />
+                <img src={getPrefixedPath(thumbnail)} alt="" />
                 <header>
                   <h4 className="post__item-title">
                     {postTitle}
