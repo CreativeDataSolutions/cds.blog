@@ -25,7 +25,7 @@ const HomePage = ({ data, location }) => {
     <Layout location={location} title={title}>
       <SEO title="Home" />
       <section className="about__section">
-        <img src="pexels-pixabay-270694.jpg" alt="" />
+        <img src="blog_main.png" alt="" />
         <div>
           <h1>{title}</h1>
           <p>{description}</p>
