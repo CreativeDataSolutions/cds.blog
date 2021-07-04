@@ -29,9 +29,9 @@ const SEO = ({
     },
   } = site;
   const metaKeywords = (!keywords || keywords?.length === 0) ? [
-    'Programming Blog Site',
-    'Software Developer Portfolio',
-    'Full Stack Developer Blog',
+    'Data Science Blog',
+    'Network Analysis Blog',
+    'Data Analysis and Visualization Blog',
   ] : keywords;
 
   const metaDescription = description || siteDescription;

@@ -5,7 +5,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `cds_blog`
+        shortname: `cds_blog`,
       }
     },
     {
@@ -49,6 +49,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
+        icon: 'content/assets/cds-createFileNodeFromBuffer.png',
         // trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
@@ -62,7 +63,7 @@ module.exports = {
         background_color: '#ffffff',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'content/assets/gatsby-icon.png',
+        icon: 'content/assets/cds_cloud.png',
       },
     },
     {

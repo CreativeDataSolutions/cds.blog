@@ -5,6 +5,9 @@ import Layout from '../components/Layout';
 import SEO from '../components/seo';
 import PostsGrid from '../components/PostsGrid';
 
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
+import config from "../../gatsby-config"
+
 const BlogPostTemplate = ({ data, location }) => {
   const {
     markdownRemark: post,
@@ -24,6 +27,12 @@ const BlogPostTemplate = ({ data, location }) => {
       tags,
     },
   } = post;
+
+  let disqusConfig = {
+    url: `${config.siteUrl+location.pathname}`,
+    identifier: post.title,
+    title: post.title,
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -46,6 +55,8 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: html }}
           itemProp="articleBody"
         />
+        <CommentCount config={disqusConfig} placeholder={'...'} />
+        <Disqus config={disqusConfig} />
         <hr />
       </article>
       <nav className="blog-post-nav">
