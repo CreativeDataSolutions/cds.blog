@@ -7,6 +7,8 @@ import PostsGrid from '../components/PostsGrid';
 
 import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 import config from "../../gatsby-config"
+// import getPrefixedPath from "../getPrefixedPath"
+
 
 const BlogPostTemplate = ({ data, location }) => {
   const {
@@ -29,7 +31,8 @@ const BlogPostTemplate = ({ data, location }) => {
   } = post;
 
   let disqusConfig = {
-    url: `${config.siteUrl+location.pathname}`,
+    // url: `${config.siteUrl+post.title}`,
+    url: "https://creativedatasolutions.github.io/cds.blog/2021-07-1-getting-started-again-final/",
     identifier: post.title,
     title: post.title,
   }

@@ -5,7 +5,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `cds_blog`,
+          shortname: `creativedatasolutions-github-io`
       }
     },
     {
