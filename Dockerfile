@@ -2,7 +2,7 @@ FROM ubuntu:20.04
 
 RUN apt update -y && \
     apt upgrade -y && \
-    apt-get install -y curl
+    apt-get install -y curl software-properties-common
 RUN curl -sL https://deb.nodesource.com/setup_15.x | bash -
 RUN apt-get install -y nodejs
 RUN npm install -g gatsby-cli
