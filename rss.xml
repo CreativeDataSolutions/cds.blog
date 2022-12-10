@@ -1,14 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CDS - Creative Data Science]]></title><description><![CDATA[Welcome to musing about data, code and visualization of complex systems and concepts. Get ready to get to know and love your data,  learn how to connect information with context and discover creative solutions to help guide your data analysis and modeling pursuits.]]></description><link>https://creativedatasolutions.github.io/cds_blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Oct 2021 01:12:08 GMT</lastBuildDate><item><title><![CDATA[Pathway enrichment-based network mapping to visualize metabolite evidence for associations with disease]]></title><description><![CDATA[Network mapping was used to visualize the association between significantly enriched pathways and evidence of association with a disease…]]></description><link>https://creativedatasolutions.github.io/cds_blog/2021-10-26-pathway-enriched-mapped-networks/</link><guid isPermaLink="false">https://creativedatasolutions.github.io/cds_blog/2021-10-26-pathway-enriched-mapped-networks/</guid><pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate><content:encoded>&lt;center&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/cds.blog/static/e5dadd44e1616d4f358033830310881d/8148f/pathway_network.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 37.9746835443038%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAC4jAAAuIwF4pT92AAABtElEQVQoz02S25KTQBCGef9n8MJ3cG+0tMpSV82B3YhkQwIhJBhy4Ew4JAT4HCZZy66amuqeqT58fyuO43C9Xqnrmpt10Jb8b2EY4G23dF0n/SxNuVwu0m+aRsba9nYrrutiGAZFUcjA7uDyVX2gyCviOKK+nLGXFro6pCzPIl7wPPiO53lsNhtW5gJ/t+Ww24heWhRPOP3jq/lJwthe0Z4vTJ5VfNeBUhTran6qOo/i1FnMqShZrWyWlgl1hWbt+BOcUExrKTvMskwmrKqK43FPLJJMZiZZHJKELqc0wbRfMNwFiK713xpRGP1r5M27IR+HBsrTZMJ4NMI0TckyFXzstcMX4T8MRKE0YKR/YBpmPOo/WEw/4R8jBqMnVtZcwGtou36AkmuVoxjzOT1HCT+KebHWBEFIHKXiV8P+6BMegptYzZVKcK2Kmo03YDF/SxDV8m0nRLPEtIrjrNE0TfwVSjcdn9UFcZrRFzr6vsQxU1UOiyGOPcb3DrxMp2LcPZo+4f23X2KKhPP5LIVV2raV0suVuK9Fd4/1JxEi9WuSC8anPCdKMmaiSJ4Xd3qtRPVqfwH97leyAtVmFAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;pathway network&quot; title=&quot;pathway network&quot; src=&quot;/cds.blog/static/e5dadd44e1616d4f358033830310881d/f058b/pathway_network.png&quot; srcset=&quot;/cds.blog/static/e5dadd44e1616d4f358033830310881d/c26ae/pathway_network.png 158w,
-/cds.blog/static/e5dadd44e1616d4f358033830310881d/6bdcf/pathway_network.png 315w,
-/cds.blog/static/e5dadd44e1616d4f358033830310881d/f058b/pathway_network.png 630w,
-/cds.blog/static/e5dadd44e1616d4f358033830310881d/40601/pathway_network.png 945w,
-/cds.blog/static/e5dadd44e1616d4f358033830310881d/78612/pathway_network.png 1260w,
-/cds.blog/static/e5dadd44e1616d4f358033830310881d/8148f/pathway_network.png 5475w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CDS - Creative Data Science]]></title><description><![CDATA[Welcome to musing about data, code and visualization of complex systems and concepts. Get ready to get to know and love your data,  learn how to connect information with context and discover creative solutions to help guide your data analysis and modeling pursuits.]]></description><link>https://creativedatasolutions.github.io/cds_blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 10 Dec 2022 02:58:49 GMT</lastBuildDate><item><title><![CDATA[Network mapping 101 hands-on course and DAVe in review]]></title><description><![CDATA[Network mapping 101 course in review Course Organization This October I was lucky enough to teach an advanced metabolic data analysis course…]]></description><link>https://creativedatasolutions.github.io/cds_blog/network_mapping_101/</link><guid isPermaLink="false">https://creativedatasolutions.github.io/cds_blog/network_mapping_101/</guid><pubDate>Tue, 30 Nov 2021 12:30:00 GMT</pubDate><content:encoded>&lt;h1&gt;&lt;a href=&quot;https://creativedatasolutions.github.io/CDS.courses/courses/network_mapping_101/docs/&quot;&gt;Network mapping 101&lt;/a&gt; course in review&lt;/h1&gt;
+&lt;h3&gt;Course Organization&lt;/h3&gt;
+&lt;p&gt;This October I was lucky enough to teach an advanced metabolic data analysis course in collaboration &lt;a href=&quot;https://deb.ucdavis.edu/&quot;&gt;University of California, Davis&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The goal was to create the following network.
+&lt;img src=&quot;https://creativedatasolutions.github.io/dave.docs/partial/img/courses/network_maping_101.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The course covered all of the steps required to go from &lt;code class=&quot;language-text&quot;&gt;raw data&lt;/code&gt; to a rich &lt;code class=&quot;language-text&quot;&gt;mapped biochemical network&lt;/code&gt; incorporating statistical, multivariate and machine learning results. This included &lt;a href=&quot;https://creativedatasolutions.github.io/CDS.courses/courses/network_mapping_101/docs/#topics&quot;&gt;examples&lt;/a&gt; and tutorials for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preparing raw data for analysis&lt;/li&gt;
+&lt;li&gt;Multivariate data exploration&lt;/li&gt;
+&lt;li&gt;Supervised clustering&lt;/li&gt;
+&lt;li&gt;Machine learning – classification model validation and feature selection&lt;/li&gt;
+&lt;li&gt;Network analysis - biochemical, structural similarity and correlation networks&lt;/li&gt;
+&lt;li&gt;Network mapping – putting it all together to create a publication quality network&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Course Software&lt;/h3&gt;
+&lt;p&gt;During this course, the participants used &lt;a href=&quot;https://creativedatasolutions.github.io/dave.docs/&quot;&gt;DAVe&lt;/a&gt; - Data Analysis and Visualization engine to recreate all analyses results. The final networks were rendered using &lt;a href=&quot;https://cytoscape.org/&quot;&gt;Cytoscape&lt;/a&gt; and prepared for publication using &lt;a href=&quot;https://inkscape.org/&quot;&gt;Inkscape&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Development&lt;/h3&gt;
+&lt;p&gt;This course was a great motivator to push &lt;a href=&quot;https://creative-data.science/&quot;&gt;CDS&lt;/a&gt; software development to release the first free publicly available version of &lt;a href=&quot;https://creativedatasolutions.github.io/dave.minicran/&quot;&gt;DAVe&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Quick history of &lt;code class=&quot;language-text&quot;&gt;DAVe&lt;/code&gt;&lt;/h4&gt;
+&lt;p&gt;The current iteration of &lt;code class=&quot;language-text&quot;&gt;DAVe&lt;/code&gt; is the culmination of a long journey which began around the year &lt;code class=&quot;language-text&quot;&gt;2010&lt;/code&gt;.
+Everything started when &lt;a href=&quot;https://dgrapov.github.io/Dmitry-Grapov/&quot;&gt;I&lt;/a&gt; was first exposed to programming. This occurred while I was completing my PhD &lt;a href=&quot;https://agchem.ucdavis.edu/&quot;&gt;graduate&lt;/a&gt; work at &lt;a href=&quot;https://www.ucdavis.edu/&quot;&gt;UC Davis&lt;/a&gt;. While I was working on my PhD thesis on &lt;a href=&quot;https://www.proquest.com/openview/7bfbe4fc3ec66a8cb4ef464bcfa15d86/1.pdf?pq-origsite=gscholar&amp;#x26;cbl=18750&quot;&gt;Application of Targeted Metabolomic Profiling and Multivariate Data Analysis for the Study of Nutrition and Disease&lt;/a&gt;. I took a statistical analysis course which was taught in &lt;a href=&quot;https://cran.r-project.org/&quot;&gt;R&lt;/a&gt;. I fell in love with &lt;code class=&quot;language-text&quot;&gt;coding&lt;/code&gt; and my PhD quickly included building multivariate data analysis &lt;code class=&quot;language-text&quot;&gt;add-ins for Excel&lt;/code&gt;. The first iteration was a Frankenstein of &lt;code class=&quot;language-text&quot;&gt;visual basic&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt;. &lt;a href=&quot;https://sourceforge.net/projects/imdev/&quot;&gt;ImDEV&lt;/a&gt; - &lt;code class=&quot;language-text&quot;&gt;I&lt;/code&gt;nteractive &lt;code class=&quot;language-text&quot;&gt;m&lt;/code&gt;odules for &lt;code class=&quot;language-text&quot;&gt;D&lt;/code&gt;ata &lt;code class=&quot;language-text&quot;&gt;E&lt;/code&gt;xploration and &lt;code class=&quot;language-text&quot;&gt;V&lt;/code&gt;isualization was born. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/8ea22/imdev.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.9620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB4klEQVQoz41Pu27UUBC9FSXfQMkH8A+RKFaiSRUqhIAKJJCg41EQqOgRPwB0UbSBSDS8pCRLtJvsyspam8S76/e1772+Xl+/zbFBESWj6/GZmTMzZ4jt2KZlmpa1hLNt0+68ZS7bJDB+bdUCAv5btTzqp1lGRBRlWZZ2dgHSDqgOqFTB/q0CJEmS5znBPMZYWZZ5USCGB26/sqyqqkBYlU3TAOd/rKMVHY0wzn3qc867be0G7IEwEyIh2ba4EGhGkgb0QlSiVNbK5jxkYYjtnAHAYzBukVEkIiHjGFTsSbM0CChIIbicI5/lGQG1O0+tVjEeSKBihOpmI1QqgUZQPM+jQRCEIZRGQuBsgk7044Dm/6xuqhoOoK5JUVSQZ8znn3a3Jto+E6lDYyoLl0oq86KUKkvaO7uHBrTlKpbeCdpJv/9eCLGzs3Vt7dKjZ9dPp9Z4dHr2fTCaGMZ4Sv0F83Q/CJeORQMfK6PU1E4+TL9sFquQrK9ffv504/Xm49sPrz55cWc0PD88nGl7kx+D+XBPp457ZEyZcRxZC58ymbjbvza+jl8e+PqROyMP7l/p9cjdW2u9mzdevX032N49+PxtOV1ox2fzc1sKfs9xf/Y/7nuzSMqqzt1I1/ShtnjDlPEbzXpRKXhnMDsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;imdev&quot;
+        title=&quot;imdev&quot;
+        src=&quot;/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/f058b/imdev.png&quot;
+        srcset=&quot;/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/c26ae/imdev.png 158w,
+/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/6bdcf/imdev.png 315w,
+/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/f058b/imdev.png 630w,
+/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/40601/imdev.png 945w,
+/cds.blog/static/3e09325f647f284ffcc6dc9e78f5bceb/8ea22/imdev.png 1023w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/center&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I am overjoyed that this tool has been &lt;a href=&quot;https://sourceforge.net/projects/imdev/files/stats/map?dates=2011-06-22+to+2022-11-25&quot;&gt;downloaded&lt;/a&gt; in &lt;code class=&quot;language-text&quot;&gt;131&lt;/code&gt; countries over &lt;code class=&quot;language-text&quot;&gt;16,000&lt;/code&gt; times.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.9873417721519%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACM0lEQVQoz42Sz1PaUBDHc/bfav8N/4DWu9OOJ+MBL3RsDx5gCgfHmx5wnHEUAwGnqJSp8qMIEkYE8oMfIYG8PF7yktBNAh3aXvo57Lzd7Hff7uYxyljrKSNlrHqet/gT13O9hRdacB3q2MTCGCMDmSbSdZ0xLJN4NqZY1uSCUGjJLZe6JAAEhmmA1rZtQklX675qr4ggzdSwhS1qMYnKV/aO3f8eYW/Z09rpSfVkOBkSYpnYVKYKRI4bx/Fa/LB6yJbY3dLu/kMkUU9edC5etBdmTufQ1F5xbyOx8fbsTeQ+MkZjuBOuOqocJR+SsXLsvH1+JqSij9HYz9jO7U570rYcC8ZhwlElJG6mN7f4rYmphgMP0CDVTo2MUbbD3/fvoj8+vcu+/1D4CMpQAtYXh/ugLrUtu6yUVezrVaTWlBqMJ6iCTvSm3uzq3eawiQn2lb7WY9YX67hOvBrf/rZdV+t+OYca2AANfA2rS1MR9ENjCGq/7fUfA7aoFA8eD9T5svnGuCHPZBfKBl8hzpb2Ple+wDWrtldAvXwnPzAHfi3XBXdKZrCb3y5sV0Lyk/qEbTy358z6qwA9hBb/DSPLsiiKkiT1AyRR6vV7cBAD+uLysHT7veZzoyW0BKENWUwux19eXQLpgKsALpPJ8tkMWCDjw2ezHMfxPJ/huFwud32dvrnJM47jIIQopX8/7BWQAOM4AZBGbRtCFjxYQpjpdDpWVfQPhmHMAiAhPMNhtgpqAb8AZlfwhjOc8L4AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;imdev download&quot;
+        title=&quot;imdev download&quot;
+        src=&quot;/cds.blog/static/ad437287369b7d89e8e45aa784e0a526/f058b/imdev_download.png&quot;
+        srcset=&quot;/cds.blog/static/ad437287369b7d89e8e45aa784e0a526/c26ae/imdev_download.png 158w,
+/cds.blog/static/ad437287369b7d89e8e45aa784e0a526/6bdcf/imdev_download.png 315w,
+/cds.blog/static/ad437287369b7d89e8e45aa784e0a526/f058b/imdev_download.png 630w,
+/cds.blog/static/ad437287369b7d89e8e45aa784e0a526/40601/imdev_download.png 945w,
+/cds.blog/static/ad437287369b7d89e8e45aa784e0a526/0d40b/imdev_download.png 1175w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Looking back, I am very grateful for the opportunity to blindly learn to recreate countless &lt;code class=&quot;language-text&quot;&gt;wheels&lt;/code&gt; (no CS training, machine learning or IDE with syntax highlighting). &lt;/p&gt;
+&lt;p&gt;While &lt;code class=&quot;language-text&quot;&gt;ImDEV&lt;/code&gt; was powerful and unique (is there any other way to create 3D networks in excel?) it was hard to install and even harder to maintain for the many possible versions of &lt;code class=&quot;language-text&quot;&gt;Excel&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;Next, &lt;a href=&quot;http://dgrapov.github.io/DeviumWeb/&quot;&gt;DeviumWeb&lt;/a&gt; - &lt;code class=&quot;language-text&quot;&gt;D&lt;/code&gt;ynamic Multivariat&lt;code class=&quot;language-text&quot;&gt;E&lt;/code&gt; Data Analysis and &lt;code class=&quot;language-text&quot;&gt;VI&lt;/code&gt;s&lt;code class=&quot;language-text&quot;&gt;U&lt;/code&gt;alization Platfor&lt;code class=&quot;language-text&quot;&gt;M&lt;/code&gt; was born. This tool used &lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt; and the package &lt;a href=&quot;https://shiny.rstudio.com/&quot;&gt;shiny&lt;/a&gt; to create all of the &lt;code class=&quot;language-text&quot;&gt;UI&lt;/code&gt;.
+&lt;img src=&quot;https://github.com/dgrapov/DeviumWeb/raw/master/other/devium1.0.gif&quot;&gt;&lt;/p&gt;
+&lt;p&gt;While &lt;code class=&quot;language-text&quot;&gt;Devium&lt;/code&gt; was portable, it was still hard to install, requiring many &lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt; packages including those from &lt;a href=&quot;https://www.bioconductor.org/&quot;&gt;Bioconductor&lt;/a&gt;. &lt;code class=&quot;language-text&quot;&gt;Devium&lt;/code&gt; also lacked integration with network calculation tools I created such as &lt;a href=&quot;http://dgrapov.github.io/MetaMapR/&quot;&gt;MetaMapR&lt;/a&gt;.
+&lt;img src=&quot;https://github.com/dgrapov/MetaMapR/raw/master/Manual/metamapr_long.gif&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://creativedatasolutions.github.io/dave.docs/&quot;&gt;DAVe&lt;/a&gt; was made to easily execute the full metabolomic network mapping &lt;a href=&quot;https://creativedatasolutions.github.io/dave.docs/partial/workflows.html#full-workflow&quot;&gt;workflow&lt;/a&gt;. This tool uses a combination of &lt;a href=&quot;https://www.opencpu.org/&quot;&gt;OpenCPU&lt;/a&gt; microservices and a &lt;code class=&quot;language-text&quot;&gt;shiny&lt;/code&gt; &lt;code class=&quot;language-text&quot;&gt;UI&lt;/code&gt;. This makes it easier to &lt;a href=&quot;https://creativedatasolutions.github.io/dave.minicran/&quot;&gt;install&lt;/a&gt; and maintain all of the code.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/8b70b/cover.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.56962025316456%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB50lEQVQozzWRb2/SUBTGL7e39Bbalf6h2K6WCqW0g9KuIFPWsaC4LWGDGVJhZG7ZWJapS4xmS0yMb4y+MH4IX/rGD+kFspuTm3tOnpz7O88BkBWRVgOczAm5SsXxfb9YLAqCYJpm0Ai8jarre4Efep5nPbFc1y2WSgAABmOKooB3++7tp99K/8J5MY5qjl2xwfKkUotbbZhbrXoCBsP8ZGicQgBLmDmu172oBcoVkD9ubzbKWSuQg5fr7qa6biqK0ul0trdjQ9eEMA6fJTfmyZ12OaZetXXt7/zyz/39zdk5jneBKIj8oAXu+q3uzucv386vrnK5nOM4tm1nM1hq9rrRWRJeHDQmUe5pYhj/JsnX+bwxep3p9oDIZPL7TfB92B8Nfv38cX09XwzzwL32qCobW7Ac0SR0x2RwT9P0qgu8GucHy/kQBTBN0xTGOM2kSYE8qq5nWRZCaNFnGQ9epGRFoVaWYAbJAi7pXF7GFKJWCkmW399+nM1mPM8vmiMkihLLspjBPMcrikQEKYiALqZlMTt4LtsGByCCEBI1m8mO35wcHR0yDLP6jeN4wktYDOOxoqgct0aKgGXpZrDR3Wl/OI1CVxQksVAo6Lo+nU6Ho5GqqiQlFhIEsuq9vf04jiVJgnDB+B/7r0dSsZcxpAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;cover&quot;
+        title=&quot;cover&quot;
+        src=&quot;/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/f058b/cover.png&quot;
+        srcset=&quot;/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/c26ae/cover.png 158w,
+/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/6bdcf/cover.png 315w,
+/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/f058b/cover.png 630w,
+/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/40601/cover.png 945w,
+/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/78612/cover.png 1260w,
+/cds.blog/static/6acc517e8811f82b58a16aaef0c6ab30/8b70b/cover.png 1266w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;DAVe&lt;/code&gt; architecture has gone through many iterations including deployment as a &lt;a href=&quot;https://kubernetes.io/&quot;&gt;kubernetes&lt;/a&gt; backed &lt;a href=&quot;https://www.shinyproxy.io/&quot;&gt;ShinyProxy&lt;/a&gt; application before arriving at its current form. My hope is that the current iteration combining &lt;code class=&quot;language-text&quot;&gt;API microservices&lt;/code&gt; and local &lt;code class=&quot;language-text&quot;&gt;shiny UI&lt;/code&gt; will provide the best compromise between user experience, rapid development and ease of maintenance. &lt;/p&gt;
+&lt;p&gt;While &lt;code class=&quot;language-text&quot;&gt;DAVe&lt;/code&gt; is an awesome tool, it requires upkeep. If you like this tool, please consider &lt;a href=&quot;https://www.patreon.com/user?u=83342337&quot;&gt;supporting it&lt;/a&gt;, which will help maintain all the servers!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Pathway enrichment-based network mapping to visualize metabolite evidence for associations with disease]]></title><description><![CDATA[Network mapping was used to visualize the association between significantly enriched pathways and evidence of association with a disease…]]></description><link>https://creativedatasolutions.github.io/cds_blog/2021-10-26-pathway-enriched-mapped-networks/</link><guid isPermaLink="false">https://creativedatasolutions.github.io/cds_blog/2021-10-26-pathway-enriched-mapped-networks/</guid><pubDate>Tue, 26 Oct 2021 12:30:00 GMT</pubDate><content:encoded>&lt;center&gt;&lt;img src=&quot;/images/pathway_network.png&quot; style=&quot;width: 75%;&quot;&gt;&lt;/center&gt;
 &lt;br&gt;
 &lt;p&gt;Network mapping was used to visualize the association between significantly enriched pathways and evidence of association with a disease state. I will have to keep things vague untill the official manuscript is published.&lt;/p&gt;
 &lt;p&gt;The data consists of counts of reference manuscripts observing an association of significant changes in metabolites in disesed compared to a control state in blood, saliva and urine. Metabolite KEGG identifiers were used to calculate pathway enrichment separately for each tissue using MetaboAnalyst [ref]. Significantly enriched pathways were identified based on p-valueS ≤ 0.05. &lt;/p&gt;
@@ -169,15 +275,7 @@ groups&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 /cds.blog/static/08334aed247bbb47c858ad4806ee889d/2ac44/blog3-9.png 1971w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This network’s nodes also encode quite a bit of primary and secondary node data, but I’ll leave the explanation for how this is done for another post.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making R strict-by-default and lazy-on-demand]]></title><description><![CDATA[I am excited by the recent article Promises Are Made to Be Broken about the authors’ efforts to migrate ’s lazy evaluation to strict…]]></description><link>https://creativedatasolutions.github.io/cds_blog/2021-10-09-lazy-promises-final/</link><guid isPermaLink="false">https://creativedatasolutions.github.io/cds_blog/2021-10-09-lazy-promises-final/</guid><pubDate>Sat, 09 Oct 2021 12:30:00 GMT</pubDate><content:encoded>&lt;p style=&quot;text-align:center;&quot;&gt;&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/cds.blog/static/e4634894621d4652d68fc1c35f11609f/c08c5/sloth.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCAf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/2gAMAwEAAhADEAAAAaMYkKOAmoDVmMP/xAAcEAACAQUBAAAAAAAAAAAAAAABIRECAxASQUP/2gAIAQEAAQUCBZxLu7yEPPtRf//EABgRAAIDAAAAAAAAAAAAAAAAAAAhARAR/9oACAEDAQE/AcQya//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/ASP/xAAaEAACAgMAAAAAAAAAAAAAAAAQEQABAlGB/9oACAEBAAY/Aka1HjY7EP/EABwQAQADAQADAQAAAAAAAAAAAAEAESExEEFRof/aAAgBAQABPyFqj3MatX4K/sgsyGY8goLuIPPEQ+2RF7yf/9oADAMBAAIAAwAAABBkF77/xAAYEQADAQEAAAAAAAAAAAAAAAAAASEQMf/aAAgBAwEBPxC0RHMJw//EABgRAQEAAwAAAAAAAAAAAAAAAAABESEx/9oACAECAQE/ENmE4j//xAAbEAEBAQEAAwEAAAAAAAAAAAABEQAhMUFRcf/aAAgBAQABPxDlmhq+t3RivPK7yW3UQxCo0Greg9ah0CL93YjkflwTshPf3uG6BQm//9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;sloth&quot; title=&quot;sloth&quot; src=&quot;/cds.blog/static/e4634894621d4652d68fc1c35f11609f/828fb/sloth.jpg&quot; srcset=&quot;/cds.blog/static/e4634894621d4652d68fc1c35f11609f/ff44c/sloth.jpg 158w,
-/cds.blog/static/e4634894621d4652d68fc1c35f11609f/a6688/sloth.jpg 315w,
-/cds.blog/static/e4634894621d4652d68fc1c35f11609f/828fb/sloth.jpg 630w,
-/cds.blog/static/e4634894621d4652d68fc1c35f11609f/c08c5/sloth.jpg 640w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot;&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This network’s nodes also encode quite a bit of primary and secondary node data, but I’ll leave the explanation for how this is done for another post.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Making R strict-by-default and lazy-on-demand]]></title><description><![CDATA[I am excited by the recent article Promises Are Made to Be Broken about the authors’ efforts to migrate ’s lazy evaluation to strict…]]></description><link>https://creativedatasolutions.github.io/cds_blog/2021-10-09-lazy-promises-final/</link><guid isPermaLink="false">https://creativedatasolutions.github.io/cds_blog/2021-10-09-lazy-promises-final/</guid><pubDate>Sat, 09 Oct 2021 12:30:00 GMT</pubDate><content:encoded>&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/images/sloth.png&quot; width=&quot;400&quot; align=&quot;center&quot;/&gt;&lt;/p&gt;
 &lt;p&gt;I am excited by the recent article &lt;a href=&quot;http://aviral.io/static/pdfs/promises-are-made-to-be-broken.pdf&quot;&gt;Promises Are Made to Be Broken&lt;/a&gt; about the authors’ efforts to migrate &lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt;’s lazy evaluation to strict semantics.&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt; was the first programming language I learned (started about 10 years ago) and genuinely feel that its flexibility to execute functional programming patterns has greatly improved my productivity. While I’ve often taken advantage of a variety of lazy evaluation benefits and as mentioned in the article risks I’ve generally found &lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt;’s flexibility predictable and greatly appreciated.&lt;/p&gt;
 &lt;p&gt;Many of my favorite &lt;code class=&quot;language-text&quot;&gt;R&lt;/code&gt; packages like &lt;code class=&quot;language-text&quot;&gt;dplyr&lt;/code&gt; also leverage lazy evaluation and I have rarely consider the impact of lazy semantics or that ‘arguments are suspended computations that are evaluated if
